@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - boundary
+  - full
+  - null
+  - enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ground
+  - Water
+  - UI
+  - enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 949742219
+    locked: 0
+  - name: back
+    uniqueID: 2655631543
+    locked: 0
+  - name: middle
+    uniqueID: 2719609307
+    locked: 0
+  - name: front
+    uniqueID: 300331025
+    locked: 0
