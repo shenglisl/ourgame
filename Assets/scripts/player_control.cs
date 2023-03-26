@@ -81,6 +81,10 @@ public class player_control : MonoBehaviour
         hurtDebug();
         hurt();
     }
+    void dead()
+    {
+        
+    }
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if(collision.gameObject.tag == "enemy" && !isDash)
