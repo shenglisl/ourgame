@@ -9,7 +9,12 @@ Have fun！
 
 All versions can be downloaded on the cloud link below.
 
-- https://cloud.tsinghua.edu.cn/d/ef6e3cdb5f5847aa9600/
+- cloudlink
+
+  https://cloud.tsinghua.edu.cn/d/ef6e3cdb5f5847aa9600/
+
+- doc
+  https://docs.qq.com/doc/DWmViWUhUbWJDQklT
 
 - *log*
 
